@@ -1,2 +1,1 @@
-# history
-previous venues
+Hier werden die vergangenen Termine von SchnitzelS gesammelt.
