@@ -1,14 +1,17 @@
 2011-08-18
-#1 Brauereigaststätte Sannwald
+Brauereigaststätte Sannwald
+url
 
 2011-09
-#2 Hotzenplotz
+Hotzenplotz
+url
 
 2011-10
-#3 Klein und Fein
+Klein und Fein
+url
 
 2011-11-10
-#4 Schnitzelkönig West
+Schnitzelkönig West
 http://www.stuttgarter-biergarten-west.de/
 
 2011-12
