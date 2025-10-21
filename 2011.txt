@@ -2,7 +2,7 @@
 Brauereigaststätte Sannwald
 url
 
-2011-09
+2011-09 TODO
 Hotzenplotz
 url
 
@@ -14,6 +14,6 @@ url
 Schnitzelkönig West
 http://www.stuttgarter-biergarten-west.de/
 
-2011-12
+2011-12 TODO
 wo
 url
