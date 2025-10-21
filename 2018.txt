@@ -1,14 +1,14 @@
 2018-01-11
-Auswärtsschnitzel Ebersbach
-Hecht Eberbach hecht-ebersbach.de
-Kirchheimer Straße 11 73061 Ebersbach
+Auswärtsschnitzel Hecht, Kirchheimer Straße 11, 73061 Ebersbach
+http://hecht-ebersbach.de
 
 2018-01-18
 Goldener Adler Böheimstraße 38 70178 Stuttgart
 http://www.goldener-adler-stuttgart.de
 
 2018-02-22
-Bernstein Stuttgart Pfarrstraße 7 70182 Stuttgart bernstein-stuttgart.de
+Bernstein Stuttgart Pfarrstraße 7 70182 Stuttgart 
+http://bernstein-stuttgart.de
 
 2018-03-22
 Weinstube Klösterle Marktstraße 71 70372 Stuttgart
@@ -19,23 +19,18 @@ Allgäuer Stüble Reuchlinstr. 12 70178 Stuttgart
 http://allgaeuer-stueble.de/index.html
 
 2018-05-17
-Weinstube Viertelesschlotzer
-Forststr. 57
-70176 Stuttgart
-Telefon: 0711 612604
+Weinstube Viertelesschlotzer, Forststr. 57, 70176 Stuttgart, Telefon: 0711 612604
 http://www.ihrviertelesschlotzer.de/index.php
 
 2018-06-21
 Aussichtsreich 
-Stuttgart
+http://das-aussichtsreich.com/
 
 2018-07
 ausgefallen
 
 2018-08-16
-Restaurant Arche
-Bärenstraße 2
-70173 Stuttgart
+Restaurant Arche, Bärenstraße 2, 70173 Stuttgart
 http://www.arche-stuttgart.de/speisen/
 
 2018-09 TODO
