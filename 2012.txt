@@ -1,52 +1,48 @@
-Januar
+2012-01
+wo
+url
 
 2012-02-23
-#7
 Weinstube Viertelesschlotzer
 http://http//ihrviertelesschlotzer.de/
 
-März
-#8
+2012-03
+Calwer Eck
 http://www.calwereck.de/
 
 2012-04-26
-#9
+Lichtblick
 http://www.lichtblickstuttgart.de/
 
 2012-05-24
-#10
+Tauberquelle
 http://http//www.tauberquelle-stuttgart.de/
 
-Juni
-TODO
+2012-06
+wo
+url
 
 2012-07-26
-#12
+Gasthaus „Post“, Sontheimer Straße 6, 70437 Stuttgart / Rot
 http://www.schnitzelhaus-post.de/
-Gasthaus „Post“
-Sontheimer Straße 6
-70437 Stuttgart / Rot
+
 
 2012-08-16
-#13
 Sanwald
+url
 
 2012-09-20
-#14
+Sportpark Neuwirtshaus
 http://www.sportpark-neuwirtshaus.de/
 
 2012-10-18
-#15
-Mr. Big's American Diner
-Hohewartstr. 16
-70469 Stuttgart
+Mr. Big's American Diner, Hohewartstr. 16, 70469 Stuttgart
 http://mr-big-feuerbach.de/
 
 2012-11-22
-#16
 Wirtshaus Troll
 http://www.wirtshaus-troll.de/index.htm
 
 2012-12-20
-#17
+Lichtblick
 http://www.lichtblickstuttgart.de/
