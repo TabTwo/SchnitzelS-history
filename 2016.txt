@@ -1,20 +1,22 @@
 2016-01-21
+zum Petrosilius
 http://zumpetrosilius.de
 
 2016-02-18
-Cannstatter Tor Bahnhofstraße 30, 70372 Stuttgart-Bad Cannstatt
+Cannstatter Tor, Bahnhofstraße 30, 70372 Stuttgart-Bad Cannstatt
+https://www.lang-gaststaetten.de/
 
 2016-03-17
-Zur Schreinerei
-Zaisgasse 4
-70372 Bad Cannstatt
+Zur Schreinerei, Zaisgasse 4, 70372 Bad Cannstatt
 http://www.zur-schreinerei-stuttgart.de
 
 2016-04-21
+Maredo
 https://www.maredo.de/steakhouse/stuttgart-koenigstrasse-38/
 
 2016-05-19
 Dorint Airport Hotel Echterdingen
+https://hotel-stuttgart-airport.dorint.com/de
 
 2016-06-23
 Carls Brauhaus
@@ -22,14 +24,14 @@ http://www.carls-brauhaus.de/
 
 2016-07-21
 Schweinemuseum
+https://www.schweinemuseum.de/restaurant
 
 2016-08-18
-#60
-Biergarten Killesberg
-dann aber wegen Regen ins
-da noi due
+Biergarten Killesberg, dann aber wegen Regen ins da noi due
+https://danoidue.de/
 
 2016-09-29
+Drei Mohren
 http://www.dreimohren-stuttgart.de/
 
 2016-10 TODO
@@ -37,7 +39,9 @@ wo
 url
 
 2016-11-24
+Ackermanns
 http://www.ackermanns.de/
 
 2016-12-15
+Chiquilin
 http://chiquilin.de/
