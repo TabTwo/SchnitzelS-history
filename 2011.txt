@@ -1,32 +1,44 @@
-Januar
+2011-01
+wo
+url
 
-Februar
+2011-02
+wo
+url
 
-März
+2011-03
+wo
+url
 
-April
+2011-04
+wo
+url
 
-Mai
+2011-05
+wo
+url
 
-Juni
+2011-06
+wo
+url
 
-Juli
+2011-07
+wo
+url
 
 2011-08-18
-#1
-Brauereigaststätte Sannwald
+#1 Brauereigaststätte Sannwald
 
-September
-#2
-Hotzenplotz
+2011-09
+#2 Hotzenplotz
 
-Oktober
-#3
-Klein und Fein
+2011-10
+#3 Klein und Fein
 
 2011-11-10
-#4
-Schnitzelkönig West
+#4 Schnitzelkönig West
 http://www.stuttgarter-biergarten-west.de/
 
-Dezember
+2011-12
+wo
+url
