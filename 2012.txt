@@ -1,4 +1,4 @@
-2012-01
+2012-01 TODO
 wo
 url
 
@@ -6,7 +6,7 @@ url
 Weinstube Viertelesschlotzer
 http://http//ihrviertelesschlotzer.de/
 
-2012-03
+2012-03 TODO
 Calwer Eck
 http://www.calwereck.de/
 
@@ -18,14 +18,13 @@ http://www.lichtblickstuttgart.de/
 Tauberquelle
 http://http//www.tauberquelle-stuttgart.de/
 
-2012-06
+2012-06 TODO
 wo
 url
 
 2012-07-26
 Gasthaus „Post“, Sontheimer Straße 6, 70437 Stuttgart / Rot
 http://www.schnitzelhaus-post.de/
-
 
 2012-08-16
 Sanwald
