@@ -4,7 +4,7 @@ url
 
 2012-02-23
 Weinstube Viertelesschlotzer
-http://http//ihrviertelesschlotzer.de/
+http://ihrviertelesschlotzer.de/
 
 2012-03 TODO
 Calwer Eck
@@ -23,12 +23,12 @@ wo
 url
 
 2012-07-26
-Gasthaus „Post“, Sontheimer Straße 6, 70437 Stuttgart / Rot
+Gasthaus Post, Sontheimer Straße 6, 70437 Stuttgart / Rot
 http://www.schnitzelhaus-post.de/
 
 2012-08-16
 Sanwald
-url
+http://www.brauerei-wirtshaus-sanwald.de/
 
 2012-09-20
 Sportpark Neuwirtshaus
