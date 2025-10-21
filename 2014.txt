@@ -1,6 +1,6 @@
 2014-01-16
 Marktstüble
-url
+https://www.looss-kulinarisches.de/marktstueble
 
 2014-02 TODO
 wo
@@ -11,8 +11,8 @@ wo
 url
 
 2014-04 TODO
-wo
-http://www.stuttgarter-biergarten-west.de/ ??
+Schnitzelkönig
+http://www.stuttgarter-biergarten-west.de/
 
 2014-05 TODO
 wo
@@ -23,7 +23,8 @@ wo
 url
 
 2014-07-17
-Festival der Kulturen
+Sommerfestival der Kulturen
+https://sommerfestival-der-kulturen.de/
 
 2014-08 TODO
 wo
