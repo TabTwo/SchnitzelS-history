@@ -12,10 +12,10 @@ http://www.zur-sattlerei.de/
 
 2017-04-20
 Restaurant Hirsch in Zuffenhausen Bottwarstr. 10 70435 Stuttgart
+url
 
 2017-05-18
 Wirtshaus Zum Spätzleschwob Vogelsangstraße 50 70197 Stuttgart
-0711 6363189
 http://www.zumspaetzleschwob.de/
 
 2017-06-22
@@ -28,17 +28,20 @@ http://schwanen-kaltental.de
 
 2017-08-17
 Das Stuttgarter Stäffele Buschlestrasse 2a/b 70178 Stuttgart
+url
 
 2017-09-21
 Murrhardter Hof Wilhelmsplatz 6 70182 Stuttgart
+url
 
 2017-10-19
 Dorint Airport Hotel
+url
 
 2017-11-16
-http://liebreich-stuttgart.de/
 Liebreich Rotebühlstr. 151 70197 Stuttgart Tel.: 0711 96892602
+http://liebreich-stuttgart.de/
 
 2017-12-21
-Schweinemuseum
-Schlachthofstraße 2 70188 Stuttgart
+Schweinemuseum, Schlachthofstraße 2 70188 Stuttgart
+url
