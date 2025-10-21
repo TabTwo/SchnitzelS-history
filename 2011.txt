@@ -1,14 +1,14 @@
 2011-08-18
-Brauereigaststätte Sannwald
-url
+Brauereigaststätte Sanwald
+http://www.brauerei-wirtshaus-sanwald.de/
 
 2011-09 TODO
 Hotzenplotz
-url
+https://www.zumhotzenplotz.de/
 
 2011-10
 Klein und Fein
-url
+https://www.klein-fein-stuttgart.de/
 
 2011-11-10
 Schnitzelkönig West
