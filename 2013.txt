@@ -1,14 +1,14 @@
-2013-01
+2013-01 TODO
 Murrhardter Hof
 http://www.murrhardter-hof.de/
 
-2013-02
+2013-02 TODO
 Parkhotel Stuttgart Airport
 
 2013-03-21
 http://www.weinstube-froehlich.de/?
 
-2013-04
+2013-04 TODO
 wo
 url
 
@@ -26,18 +26,18 @@ Café Scholz
 2013-08-22
 Schlesinger
 
-2013-09
+2013-09 TODO
 wo
 url
 
-2013-10
+2013-10 TODO
 wo
 url
 
-2013-11
+2013-11 TODO
 wo
 url
 
-2013-12
+2013-12 TODO
 wo
 url
